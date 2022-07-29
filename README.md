@@ -1,4 +1,4 @@
-# web design landing page | Project-8 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
+# Web Design Landing Page | Project-8 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
 
 Hello There,
 
@@ -11,9 +11,9 @@ I'm `Adnan Sarkar`. This is the 8th assignment in my [Full Stack Javascript](htt
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080`
 
-[Live Preview]()
+[Live Preview](https://web-design-landing-page-project-8.netlify.app/)
 
-![]()
+![](Design%20Landing%20Page.png)
 
 ##  What I have learned in this project?
 - Flex-box for elements alignment.

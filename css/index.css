@@ -37,11 +37,11 @@ nav {
 
 .nav-item {
     cursor: pointer;
-    font-size: 25px;
+    font-size: 20px;
     font-family: "Roboto", sans-serif;
     color: #2F337D;
     font-weight: 600;
-    margin: 0 30px;
+    margin: 0 20px;
     transition: color 300ms linear;
 }
 
@@ -51,7 +51,7 @@ nav {
 
 .signin-btn {
     font-family: "Roboto", sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 600;
     border: none;
     padding: 6px 30px;
@@ -120,7 +120,7 @@ nav {
 .vector-img {
     position: absolute;
     bottom: -35px;
-    left: 510px;
+    left: 375px;
     transform: rotate(-28deg);
     z-index: 111;
 }
@@ -128,7 +128,7 @@ nav {
 .vector-dot {
     position: absolute;
     bottom: 60px;
-    left: 547px;
+    left: 410px;
     z-index: 111;
 }
 
@@ -136,6 +136,6 @@ nav {
     width: 80%;
     position: absolute;
     bottom: -295px;
-    left: 299px;
+    left: 240px;
     z-index: 111;
 }
