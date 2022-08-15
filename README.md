@@ -21,7 +21,7 @@ I'm `Adnan Sarkar`. This is the 8th assignment in my [Full Stack Javascript](htt
 - Media queries for responsive design.
 
 ## ⏲ Time to finish the project
-It took me around 1:00-1:30 hours to complete this project.
+It took me around 4 hours to complete this project.
 
 ## 📢 Social Links
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sarkar-8b54341a0/)
