@@ -63,7 +63,7 @@
 @media screen and (max-width: 480px) {
     .intro-section {
         padding-top: 30px;
-        height: 100vh;
+        height: auto;
         flex-direction: column;
         justify-content: center;
         background: linear-gradient(to right, rgba(149, 92, 242, 0.637), rgba(255, 138, 220, 0.637));
@@ -122,7 +122,7 @@
 
 @media screen and (min-width: 481px) and (max-width: 1100px) {
     .intro-section {
-        height: 100vh;
+        height: auto;
         padding-top: 30px;
         flex-direction: column;
         justify-content: center;
